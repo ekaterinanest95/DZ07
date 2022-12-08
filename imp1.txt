@@ -1,0 +1,55 @@
+name: Нина
+
+surname: Николаева
+
+birth_date: 02.03.1987
+
+workplace: ПАО "ТМК"  
+
+phone_number: 89506232564
+
+
+name: Александр
+
+surname: Лавырев
+
+birth_date: 11.08.1990
+
+workplace: ПАО "Россельсохбанк"  
+
+phone_number: 89144524587
+
+
+name: Елена
+
+surname: Иванова
+
+birth_date: 23.05.1983
+
+workplace: ПАО "Сбербанк" 
+
+phone_number: 89757857542
+
+
+name: Владимир
+
+surname: Громов
+
+birth_date: 05.10.1996
+
+workplace: ПАО "Банк СПб" 
+
+phone_number: 89235981397
+
+
+name: Евгений
+
+surname: Уваров
+
+birth_date: 19.06.1994
+
+workplace: ПАО "Русгидро"
+
+phone_number: 89641584657
+
+
